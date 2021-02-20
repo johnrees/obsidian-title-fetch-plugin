@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-fetch-title-plugin",
+  "name": "Fetch title plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.9.12",
+  "description": "Attempts to fetch a URL's title when pasted into a document",
+  "author": "John Rees",
+  "authorUrl": "https://github.com/johnrees",
+  "isDesktopOnly": false
+}
